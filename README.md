@@ -1,10 +1,20 @@
 # My First GitHub Project
 
-Hi! I'm Aakash, a 2nd year engineering student.
+## About
 
-This repository contains my beginner Python programs:
-- hello.py
-- even_odd.py
-- calculator.py
+Hi, I'm **Aakash**, a second-year engineering student.
 
-I am learning Python and GitHub step by step.
+This repository contains my beginner Python programs created while learning Python and GitHub.
+
+## Programs
+
+* Hello World
+* Even/Odd Number Checker
+* Basic Calculator
+* Largest of Two Numbers
+* Multiplication Table Generator
+* Basic Login Authentication
+
+## Goal
+
+To improve my Python programming skills, strengthen problem-solving abilities, and build a strong foundation for software development.
