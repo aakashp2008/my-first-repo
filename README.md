@@ -1,20 +1,34 @@
 # My First GitHub Project
 
 ## About
+Hi, I'm Aakash, a second-year B.Tech Information Technology student.
 
-Hi, I'm **Aakash**, a second-year engineering student.
+This repository contains beginner Python programs that I created while learning Python programming and GitHub.
 
-This repository contains my beginner Python programs created while learning Python and GitHub.
+## Programs Included
+- Hello World
+- Calculator
+- Menu-driven Calculator
+- Even/Odd Number Checker
+- Largest of Two Numbers
+- Largest of Three Numbers
+- Factorial Calculator
+- Fibonacci Series
+- Count Digits
+- Leap Year Checker
+- Multiplication Table Generator
+- Reverse Number
+- Sum of Numbers
+- Swap Two Numbers
+- Basic Login Authentication
 
-## Programs
-
-* Hello World
-* Even/Odd Number Checker
-* Basic Calculator
-* Largest of Two Numbers
-* Multiplication Table Generator
-* Basic Login Authentication
+## Technologies Used
+- Python 3
+- Git
+- GitHub
 
 ## Goal
+To improve my Python programming skills, strengthen problem-solving abilities, and build a strong foundation in software development.
 
-To improve my Python programming skills, strengthen problem-solving abilities, and build a strong foundation for software development.
+## Author
+**Aakash P**
